@@ -59,11 +59,8 @@ plt.show()
 ```
 
 ## Output:
-<img width="1920" height="1020" alt="Screenshot 2026-02-24 193017" src="https://github.com/user-attachments/assets/7a8a1ee0-9f70-4154-9882-2292f86a5c05" />
-<img width="1920" height="1020" alt="Screenshot 2026-02-24 193035" src="https://github.com/user-attachments/assets/d390d62d-a79f-4fb7-81f0-b0645e43631b" />
-<img width="1920" height="1020" alt="Screenshot 2026-02-24 193059" src="https://github.com/user-attachments/assets/c930f500-fcee-450d-ab10-b208e3265d0f" />
-
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ac344e0f-a96f-4762-9751-e0b345b64842" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4f8b6b02-4983-4f5f-9be3-29aea3ccd2f2" />
 
 
 
